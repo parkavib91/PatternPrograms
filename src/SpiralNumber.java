@@ -5,7 +5,7 @@ public class SpiralNumber {
     public static void printSpiral(int size) {
 
         int row = 0, col = 0;
-         int b = size - 1;
+        int b = size - 1;
         int sl = size - 1;
         int f = 1;
         char m = 'r';

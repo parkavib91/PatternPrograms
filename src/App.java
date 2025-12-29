@@ -57,7 +57,7 @@ private static void MirrorLowerStarCalculation(Scanner scanner){
   System.out.println("Enter the number");
   int number = scanner.nextInt();
   MirrorLowerStar mirrorLowerStar = new MirrorLowerStar();
-  mirrorLowerStar.MirrorLowerStarMethod(number);
+  mirrorLowerStar.MirrorLowerMethod(number);
 }
 private static void SquareStarCalculation(Scanner scanner){
    System.out.println("Enter the rows");

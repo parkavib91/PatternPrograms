@@ -1,5 +1,5 @@
 public class MirrorLowerStar{
-    public void MirrorLowerStarMethod(int number){
+    public void MirrorLowerMethod(int number){
         int m,n;
         for(m = 1;m<=number;m++){
          for(n = 1;n<m;n++){
